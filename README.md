@@ -23,6 +23,10 @@ assets/shape-gear.svg       Forma 3D: engranaje
 assets/shape-sphere.svg     Forma 3D: esfera
 assets/shape-ring.svg       Forma 3D: anillo
 assets/shape-cube.svg       Forma 3D: cubo
+assets/qr-compartir-portafolio.png   Tarjeta QR para compartir (vertical)
+assets/qr-compartir-cuadrado.png     Tarjeta QR para compartir (cuadrada)
+assets/qr-portafolio.png    Código QR del sitio
+assets/qr-portafolio.svg    Código QR vectorial
 favicon.svg                 Icono del sitio
 referencia.webp             Referencia visual
 ```
