@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" role="img">
+  <defs>
+    <linearGradient id="ringG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF2FF"/><stop offset=".25" stop-color="#A8C7FF"/><stop offset=".55" stop-color="#4D8DFF"/><stop offset=".8" stop-color="#1D4ED8"/><stop offset="1" stop-color="#071A3D"/>
+    </linearGradient>
+    <linearGradient id="ringD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2455"/><stop offset="1" stop-color="#06152F"/>
+    </linearGradient>
+    <filter id="rblur"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+  <g transform="rotate(-16 150 112)">
+    <ellipse cx="156" cy="122" rx="101" ry="60" fill="none" stroke="url(#ringD)" stroke-width="38" opacity=".9"/>
+    <ellipse cx="150" cy="112" rx="101" ry="60" fill="none" stroke="url(#ringG)" stroke-width="34"/>
+    <ellipse cx="150" cy="112" rx="101" ry="60" fill="none" stroke="#FFFFFF" stroke-opacity=".4" stroke-width="5" stroke-dasharray="150 480" stroke-linecap="round" transform="rotate(8 150 112)"/>
+    <ellipse cx="150" cy="112" rx="84" ry="45" fill="none" stroke="#06152F" stroke-opacity=".35" stroke-width="5"/>
+  </g>
+  <ellipse cx="154" cy="212" rx="80" ry="9" fill="#04142F" opacity=".28" filter="url(#rblur)"/>
+</svg>
