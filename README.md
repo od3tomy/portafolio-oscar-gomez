@@ -27,6 +27,7 @@ assets/qr-compartir-portafolio.png   Tarjeta QR para compartir (vertical)
 assets/qr-compartir-cuadrado.png     Tarjeta QR para compartir (cuadrada)
 assets/qr-portafolio.png    Código QR del sitio
 assets/qr-portafolio.svg    Código QR vectorial
+assets/qr-portafolio.pdf    PDF A4 con el QR, sin título
 favicon.svg                 Icono del sitio
 referencia.webp             Referencia visual
 ```
